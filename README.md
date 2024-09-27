@@ -15,13 +15,13 @@
 
 ### Langkah 1: Clone Repository
 ```
-https://github.com/FhadilHendriansah/kpufadil.git
+https://github.com/Syahril8/syahrilkpu.git
 ```
 
 ### Langkah 2: Pindah ke Direktori Proyek 
 
 ```
-cd laravel-kpufadil
+cd syahrilkpu
 ```
 
 - Setelah Itu Masuk Ke dalam Visual Studio Code
@@ -45,7 +45,7 @@ cp .env.example .env
  DB_CONNECTION=mysql
  DB_HOST=127.0.0.1
  DB_PORT=3306
- DB_DATABASE=ujikomfadiljaidi
+ DB_DATABASE=syahrilkpu
  DB_USERNAME=root
  DB_PASSWORD=
 ```
